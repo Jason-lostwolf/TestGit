@@ -1,0 +1,30 @@
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ResolveAssemblyReference.cache
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.View.FrmLogin.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.View.FrmMain.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.Properties.Resources.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmBase.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.View.BaseForm.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPackagingScan.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPalletDeliveryScan.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPalletDeliveryDetailScan.resources
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE_3200.csproj.GenerateResource.Cache
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\ENPOT.exe
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\ENPOT.pdb
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\Symbol.Barcode.Design.dll
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.exe
+D:\SC\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.pdb
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\ENPOT.exe
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\ENPOT.pdb
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\bin\Debug\Symbol.Barcode.Design.dll
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.View.FrmLogin.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.View.FrmMain.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmBase.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.View.BaseForm.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPackagingScan.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPalletDeliveryScan.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE.FrmPalletDeliveryDetailScan.resources
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\EVERGRANDE_3200.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.exe
+C:\Documents and Settings\Administrator\桌面\EVERGRANDE_MC3200\EVERGRANDE_MC3200\EVERGRANDE\obj\Debug\ENPOT.pdb

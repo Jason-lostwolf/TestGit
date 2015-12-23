@@ -1,0 +1,16 @@
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.Properties.Resources.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.csproj.GenerateResource.Cache
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmScanBase.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\bin\Debug\Symbol.Barcode.Design.dll
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.View.FrmLogin.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmBase.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.View.FrmMain.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmPackageScan.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmSampleScan.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmPalletScan.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.Unipres.Scan.FrmPalletDetailScan.resources
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\bin\Debug\ENPOT.exe
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\bin\Debug\ENPOT.pdb
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.exe
+E:\WorkPlace\Project\郑州\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\ENPOT.Unipres.Scan\obj\Debug\ENPOT.pdb

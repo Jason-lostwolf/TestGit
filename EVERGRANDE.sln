@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVERGRANDE_3200", "EVERGRANDE\EVERGRANDE_3200.csproj", "{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "EVERGRANDE.Setup", "EVERGRANDE.Setup\EVERGRANDE.Setup.vddproj", "{D6007CBB-3C26-4011-9F09-D845CAC27748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C6F22C-12ED-400C-BE18-0CAE2426B58B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D6007CBB-3C26-4011-9F09-D845CAC27748}.Debug|Any CPU.ActiveCfg = Debug
+		{D6007CBB-3C26-4011-9F09-D845CAC27748}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
