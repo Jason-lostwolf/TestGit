@@ -1,0 +1,29 @@
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.exe
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.pdb
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\System.Data.SQLite.dll
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\ResolveAssemblyReference.cache
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Form1.resources
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Properties.Resources.resources
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.csproj.GenerateResource.Cache
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.exe
+E:\work\程序存档\C#\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.pdb
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.exe
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.pdb
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\System.Data.SQLite.dll
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\ResolveAssemblyReference.cache
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Form1.resources
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Properties.Resources.resources
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.csproj.GenerateResource.Cache
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.exe
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.pdb
+D:\我的桌面\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\SQLite.Interop.081.dll
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\SQLite.Interop.081.dll
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.exe
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\WinceSQLite20120808.pdb
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Form1.resources
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.exe
+C:\Documents and Settings\Administrator\桌面\WinceSQLite20120808\WinceSQLite20120808\WinceSQLite20120808\obj\Debug\WinceSQLite20120808.pdb
