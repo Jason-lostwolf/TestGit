@@ -113,7 +113,7 @@
             this.lblLogin.Location = new System.Drawing.Point(0, 18);
             this.lblLogin.Name = "lblLogin";
             this.lblLogin.Size = new System.Drawing.Size(238, 40);
-            this.lblLogin.Text = "条码采集系统1111";
+            this.lblLogin.Text = "3424";
             this.lblLogin.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // lblVersion
